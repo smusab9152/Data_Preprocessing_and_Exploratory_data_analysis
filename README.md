@@ -22,7 +22,6 @@ The notebooks cover a wide range of tasks commonly performed in a data science w
 
 
 ###  Clone the repository  
-```bash
 git clone https://github.com/smusab9152/Data_Preprocessing_and_Exploratory_data_analysis.git
 cd Data_Preprocessing_and_Exploratory_data_analysis
 
@@ -38,7 +37,6 @@ The general data science workflow demonstrated in this repository is:
 5. **Modeling & Evaluation** → `Classification_and_prediction_regression.ipynb`, `Handle_Imbalanced_Classes.ipynb`  
 6. **Advanced Analysis** → `Market_Basket_Analysis.ipynb`  
 
----
 
 ## 🛠️ Requirements  
 
