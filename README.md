@@ -1,7 +1,5 @@
 # Data Preprocessing and Exploratory Data Analysis  
-
 This repository contains a collection of **Jupyter notebooks** that demonstrate different techniques for **data preprocessing, exploratory data analysis (EDA), feature engineering, and predictive modeling**.  
-
 The notebooks cover a wide range of tasks commonly performed in a data science workflow — from cleaning and transforming raw datasets to building and evaluating machine learning models.  
 
 ---
